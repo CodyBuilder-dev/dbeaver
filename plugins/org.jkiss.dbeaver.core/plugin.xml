@@ -711,6 +711,10 @@
             <command commandId="org.jkiss.dbeaver.core.sql.script.associate">
                 <visibleWhen checkEnabled="true"/>
             </command>
+            
+            <command commandId="org.jkiss.dbeaver.core.sql.script.run">
+                <visibleWhen checkEnabled="true"/>
+            </command>
 
             <separator name="connection-tools" visible="true"/>
 
